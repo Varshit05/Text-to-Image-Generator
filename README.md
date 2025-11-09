@@ -26,7 +26,5 @@
 | 🤖 AI Models | Stable Diffusion / ClipDrop / Gemini / Hugging Face |
 | ☁️ Hosting (optional) | Render / Vercel / Railway |
 
----
 
-## 📦 Folder Structure
 
